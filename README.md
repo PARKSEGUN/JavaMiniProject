@@ -1,1 +1,1 @@
-# JavaMiniProject
+# 자바로 작성한 작은 프레젝트 모음
