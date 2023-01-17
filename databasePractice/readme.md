@@ -23,6 +23,7 @@
 
 ---
 
+### 📊 DB Table
 ```sql
 <테이블>
 CREATE TABLE PRACTICE (
